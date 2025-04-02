@@ -2,7 +2,7 @@
 
 ## Initialization
 ```lua
-local Library = loadstring(game:HttpGet('YOUR_GITHUB_RAW_LINK'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/NxYDev/locus-Ui-Library/refs/heads/main/locus.lua'))()
 ```
 
 ## Window Creation
